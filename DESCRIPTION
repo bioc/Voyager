@@ -1,7 +1,7 @@
 Package: Voyager
 Type: Package
 Title: From geospatial to spatial omics
-Version: 1.16.0
+Version: 1.17.0
 Authors@R: 
     c(person("Lambda", "Moses", email = "lambda.calc29@gmail.com", 
     role = c("aut", "cre"),
